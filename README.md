@@ -22,7 +22,7 @@ To run the tests, you run the event_scheduler_test.py script:
 
 ## Design Decisions and Assumptions
 
-The buisness logic and the "User Interface" were separatly developed so that the testing would be easier and to promote code reusability.
-An object oriented approach was chosen because it allows describing real world objects and all their behaviors in code.
+The business logic and the "User Interface" were separately developed so that the testing would be easier and to promote code reusability.
+An object-oriented approach was chosen because it allows describing real-world objects and all their behaviors in code.
 
-An assumption made while developing this program is a user can not add a past date as an event and that two events can have the same name but will have diffrent internal indexes. 
+An assumption made while developing this program is a user can not add a past date as an event and that two events can have the same name but should have different internal indexes. 
