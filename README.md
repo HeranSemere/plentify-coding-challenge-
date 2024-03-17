@@ -10,16 +10,15 @@ This project consists of three main scripts:
 
 ## How to Run
 
-To run the program, you'll need Python installed on your machine. You can then run the start_program.py script from the command line like so:
+To run the program, run the start_program.py script from the command line like so:
 
-```bash
-python start_program.py
-```bash
+`python start_program.py`
+
 This will start the program and prompt you for input.
 
 To run the tests, you run the event_scheduler_test.py script:
 
-python event_scheduler_test.py
+`python event_scheduler_test.py`
 
 ## Design Decisions and Assumptions
 
