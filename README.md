@@ -14,7 +14,7 @@ To run the program, you'll need Python installed on your machine. You can then r
 
 ```bash
 python start_program.py
-
+```bash
 This will start the program and prompt you for input.
 
 To run the tests, you run the event_scheduler_test.py script:
